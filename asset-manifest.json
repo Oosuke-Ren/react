@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/react/static/css/main.16081c88.chunk.css",
-    "main.js": "/react/static/js/main.3e7f6e84.chunk.js",
-    "main.js.map": "/react/static/js/main.3e7f6e84.chunk.js.map",
+    "main.css": "/react/static/css/main.c50582e2.chunk.css",
+    "main.js": "/react/static/js/main.a10c1613.chunk.js",
+    "main.js.map": "/react/static/js/main.a10c1613.chunk.js.map",
     "runtime-main.js": "/react/static/js/runtime-main.a6b8ea0c.js",
     "runtime-main.js.map": "/react/static/js/runtime-main.a6b8ea0c.js.map",
     "static/js/2.fd3ad085.chunk.js": "/react/static/js/2.fd3ad085.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.b208254f.chunk.js": "/react/static/js/3.b208254f.chunk.js",
     "static/js/3.b208254f.chunk.js.map": "/react/static/js/3.b208254f.chunk.js.map",
     "index.html": "/react/index.html",
-    "static/css/main.16081c88.chunk.css.map": "/react/static/css/main.16081c88.chunk.css.map",
+    "static/css/main.c50582e2.chunk.css.map": "/react/static/css/main.c50582e2.chunk.css.map",
     "static/js/2.fd3ad085.chunk.js.LICENSE.txt": "/react/static/js/2.fd3ad085.chunk.js.LICENSE.txt",
     "static/media/App.css": "/react/static/media/1083-font.a91326ec.ttf",
     "static/media/index.css": "/react/static/media/brush-type-bg-font.57d91a6c.ttf"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.a6b8ea0c.js",
     "static/js/2.fd3ad085.chunk.js",
-    "static/css/main.16081c88.chunk.css",
-    "static/js/main.3e7f6e84.chunk.js"
+    "static/css/main.c50582e2.chunk.css",
+    "static/js/main.a10c1613.chunk.js"
   ]
 }
